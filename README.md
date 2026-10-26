@@ -1,2 +1,2 @@
 # Personal_Projects
-This repo. contains all the programs personally built by me.
+This repo. contains all the programs built by me as well as in collaboration with my acquaintances.
